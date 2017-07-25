@@ -1,0 +1,9 @@
+{
+  "name": "Lot49",
+   "version": "1.0.0",
+   "description": "landing page for Lot 49",
+
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
